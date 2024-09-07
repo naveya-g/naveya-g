@@ -10,7 +10,7 @@
 
 👨‍💻 **GitHub:** [naveya-g](https://github.com/naveya-g)
 
-[![Naveya G](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=CaTPYK0AAAAJ&hl=en])
+**Google Scholar Profile:** [![Naveya G](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=CaTPYK0AAAAJ&hl=en]) 
 
 
 
