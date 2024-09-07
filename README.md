@@ -8,7 +8,13 @@
 
 🔗 **LinkedIn:** [naveya-gopal](https://www.linkedin.com/in/naveya-gopal-4337a0274/) 
 
- 👨‍💻 **GitHub:** [naveya-g](https://github.com/naveya-g)
+👨‍💻 **GitHub:** [naveya-g](https://github.com/naveya-g)
+
+![image](https://github.com/user-attachments/assets/cb801e89-3b58-4c3a-8da1-a5790d549434)
+
+
+
+ 
 
 ### About Me 🌐
 Leveraging 6+ years of expertise in modeling, data analysis, and statistical analysis, I turn complex data into actionable insights, driving innovation in the data science field.
@@ -27,6 +33,6 @@ Leveraging 6+ years of expertise in modeling, data analysis, and statistical ana
 
 
 ### Certifications 📜
-- **Great learning:** Deep Learning, Machine Learning, Tableau
+- **University of Texas, Austin/ Great Lakes:** Deep Learning, Machine Learning, Tableau
 
 
