@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Naveya!
 
-## PhD Graduate and Aspiring Data Scientist
+## PhD Graduate and Data Analyst Consultant
 
-📍**Bengaluru, India**
+📍**Chennai, India**
 
 📧 Email: [gnaveya@gmail.com](mailto:gnaveya@gmail.com)  
 
