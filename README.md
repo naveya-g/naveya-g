@@ -24,7 +24,7 @@ Leveraging 6+ years of expertise in modeling, data analysis, and statistical ana
 
 ### Education 🎓
 - **PostGraduate Program in Artifical Intelligence and Machine Learning** - University of Texas, Austin/Great Lakes (2024-2025)
-- **Doctor of Philosophy in Nuclear Physics** - University of Madras, India (2016 - 2023)
+- **Doctor of Philosophy in Theoretical Physics** - University of Madras, India (2016 - 2023)
 
 
 ### Tech Toolbox 🛠️
