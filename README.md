@@ -12,8 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a PhD graduate in Theoretical Physics turned Data Analyst Consultant with 6+ years of experience in data modeling, statistical analysis, and AI/ML workflows. 
-Currently working on projects involving predictive modeling, and LLM-powered solutions for public sector analytics.
+PhD Physics graduate turned Data Analyst Consultant with 6+ years of experience in data modeling, statistical analysis, and end-to-end AI/ML workflows. Currently focused on predictive modeling and LLM-powered solutions for public sector analytics.
 
 
 
