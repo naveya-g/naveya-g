@@ -19,7 +19,7 @@
  
 
 ### About Me 🌐
-Leveraging 6+ years of expertise in modeling, data analysis, and statistical analysis, I turn complex data into actionable insights, driving innovation in the data science field.
+Leveraging 6+ years of expertise in modeling, data analysis, and statistical analysis, I turn complex data into actionable insights, driving innovation in the data science field. Currently, working as a Data Analyst Consultant.
 
 
 ### Education 🎓
