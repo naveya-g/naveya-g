@@ -29,12 +29,9 @@ Currently working on projects involving predictive modeling, and LLM-powered sol
 
 ### 🛠️ Tech Toolbox
 
-- **Languages:** Python, SQL, Fortran  
-- **Web & Cloud:** FastAPI, REST APIs, Azure Cloud, Blob Storage  
-- **ML & AI:** Scikit-Learn, TensorFlow, Keras, XGBoost, LightGBM, LLMs, Generative AI  
-- **Data Handling:** Pandas, NumPy, Jupyter Notebook  
-- **Visualization:** Tableau, Seaborn, Matplotlib, Excel  
-- **Web Scraping:** Selenium, BeautifulSoup, Playwright  
+- **Languages:** Python, SQL, Fortran   
+- **ML & AI:** Scikit-Learn, TensorFlow, Keras, XGBoost, LightGBM, LLMs, Generative AI 
+- **Visualization:** Tableau, Seaborn, Matplotlib, Excel   
 - **Tools:** Git, Docker, LaTeX, Gnuplot  
 
 ---
@@ -46,7 +43,7 @@ Currently working on projects involving predictive modeling, and LLM-powered sol
 
 ---
 
-> 💡 *“Turning raw data into strategic insight is my superpower.”*
+💡 *“Turning raw data into strategic insight is my superpower.”*
 
 ---
 
