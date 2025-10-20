@@ -1,40 +1,54 @@
 # 👋 Hi, I'm Naveya!
 
-## PhD Graduate and Data Analyst Consultant
+## PhD Graduate | Data Analyst Consultant | AI/ML Enthusiast
 
-📍**Chennai, India**
+📍 **Chennai, India**  
+📧 **Email:** [gnaveya@gmail.com](mailto:gnaveya@gmail.com)  
+🔗 **LinkedIn:** [naveya-gopal](https://www.linkedin.com/in/naveya-gopal-4337a0274/)  
+👨‍💻 **GitHub:** [naveya-g](https://github.com/naveya-g)  
+📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=CaTPYK0AAAAJ&hl=en)
 
-📧 Email: [gnaveya@gmail.com](mailto:gnaveya@gmail.com)  
+---
 
-🔗 **LinkedIn:** [naveya-gopal](https://www.linkedin.com/in/naveya-gopal-4337a0274/) 
+### 🚀 About Me
 
-👨‍💻 **GitHub:** [naveya-g](https://github.com/naveya-g)
+I'm a PhD graduate in Theoretical Physics turned Data Analyst Consultant with 6+ years of experience in data modeling, statistical analysis, and AI/ML workflows. 
+Currently working on projects involving predictive modeling, and LLM-powered solutions for public sector analytics.
 
-**Google Scholar Profile:** [![Naveya G](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CaTPYK0AAAAJ&hl=en) 
+---
 
+### 🎓 Education
 
+- 📘 **Post Graduate Program in Artificial Intelligence & Machine Learning**  
+  *University of Texas at Austin / Great Lakes* (2024 – 2025)
 
+- 🎓 **PhD in Theoretical Physics**  
+  *University of Madras, India* (2016 – 2023)
 
+---
 
- 
+### 🛠️ Tech Toolbox
 
-### About Me 🌐
-Leveraging 6+ years of expertise in modeling, data analysis, and statistical analysis, I turn complex data into actionable insights, driving innovation in the data science field. Currently, working as a Data Analyst Consultant.
+- **Languages:** Python, SQL, Fortran  
+- **Web & Cloud:** FastAPI, REST APIs, Azure Cloud, Blob Storage  
+- **ML & AI:** Scikit-Learn, TensorFlow, Keras, XGBoost, LightGBM, LLMs, Generative AI  
+- **Data Handling:** Pandas, NumPy, Jupyter Notebook  
+- **Visualization:** Tableau, Seaborn, Matplotlib, Excel  
+- **Web Scraping:** Selenium, BeautifulSoup, Playwright  
+- **Tools:** Git, Docker, LaTeX, Gnuplot  
 
+---
 
-### Education 🎓
-- **PostGraduate Program in Artifical Intelligence and Machine Learning** - University of Texas, Austin/Great Lakes (2024-2025)
-- **Doctor of Philosophy in Theoretical Physics** - University of Madras, India (2016 - 2023)
+### 📜 Certifications
 
+- Introduction to Tableau – *Great Learning*  
+- Machine Learning & Deep Learning – *University of Texas Austin / Great Lakes*
 
-### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, Fortran
-- **Data Visualization:** Tableau, Excel, Seaborn, Matplotlib
-- **Software/Tools:** Jupyter Notebook, Git, Microsoft Office, LaTeX, Gnuplot
-- **Frameworks/Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, XGBoost, LightGBM
+---
 
+> 💡 *“Turning raw data into strategic insight is my superpower.”*
 
-### Certifications 📜
-- **University of Texas, Austin/ Great Lakes:** Deep Learning, Machine Learning, Tableau
+---
 
-
+### 📈 Let's Connect  
+Feel free to explore my repos, drop a ⭐️, or connect via [LinkedIn](https://www.linkedin.com/in/naveya-gopal-4337a0274/)!
