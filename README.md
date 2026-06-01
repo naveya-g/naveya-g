@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-PhD graduate with 7+ years of research experience, currently working as a Junior Data Scientist. Proven expertise in developing and deploying end-to-end ML and AI solutions - from predictive modelling and generative AI to LLM-based agentic pipelines. Committed to translating complex datasets into measurable business outcomes across cross-functional teams.
+PhD graduate with 7+ years of research experience, currently working as a Junior Data Scientist. Experienced in developing and deploying end-to-end ML and AI solutions - from predictive modelling and generative AI to LLM-based agentic pipelines. Committed to translating complex datasets into measurable business outcomes across cross-functional teams.
 
 
 
