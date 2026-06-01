@@ -30,13 +30,21 @@ PhD graduate with 7+ years of research experience, currently working as a Junior
 ## 🛠️ Tech Toolbox
 
 **Languages:** Python · SQL · Fortran
+
 **ML/AI:** Scikit-Learn · XGBoost · LightGBM · TensorFlow · PyTorch · Keras · MLflow · Hugging Face
+
 **LLM & Agents:** LangChain · LangGraph · CrewAI
-**Data & Databases:** Pandas · NumPy · DuckDB · MongoDB · PostGIS
+
+**Data Preprocessing & Databases:** Pandas · NumPy · DuckDB · MongoDB · PostGIS
+
 **Computer Vision:** OpenCV · Tesseract OCR
+
 **Visualization:** Matplotlib · Seaborn · Tableau · PowerBI
+
 **Cloud & APIs:** Azure Blob Storage · FastAPI · REST API
+
 **Web Scraping:** Selenium · BeautifulSoup · Playwright
+
 **Tools:** Git · Docker · Mathematica
 
 
