@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naveya!
 
-## PhD Graduate | Data Analyst Consultant | AI/ML Enthusiast
+## PhD Graduate | Data Scientist | AI/ML Enthusiast
 
 📍 **Chennai, India**  
 📧 **Email:** [gnaveya@gmail.com](mailto:gnaveya@gmail.com)  
@@ -12,24 +12,32 @@
 
 ### 🚀 About Me
 
-PhD Physics graduate turned Data Analyst Consultant with 6+ years of experience in data modeling, statistical analysis, and end-to-end AI/ML workflows. Currently focused on predictive modeling and LLM-powered solutions for public sector analytics.
+PhD graduate with 7+ years of research experience, currently working as a Junior Data Scientist. Proven expertise in developing and deploying end-to-end ML and AI solutions - from predictive modelling and generative AI to LLM-based agentic pipelines. Committed to translating complex datasets into measurable business outcomes across cross-functional teams.
 
 
 
 ### 🎓 Education
 
-- 📘 **Post Graduate Program in Artificial Intelligence & Machine Learning**  
+- **Post Graduate Program in Artificial Intelligence & Machine Learning**  
   *University of Texas at Austin / Great Lakes* (2024 – 2025)
 
-- 🎓 **PhD in Theoretical Physics**  
+- **Visiting Research Scientist**  
+  *Indian Institute of Astrophysics, India* (2023 – 2024) 
+
+- **PhD in Theoretical Physics**  
   *University of Madras, India* (2016 – 2023)
 
-### 🛠️ Tech Toolbox
+## 🛠️ Tech Toolbox
 
-- **Languages:** Python, SQL, Fortran   
-- **ML & AI:** Scikit-Learn, TensorFlow, Keras, XGBoost, LightGBM, LLMs, Generative AI 
-- **Visualization:** Tableau, Seaborn, Matplotlib, Excel   
-- **Tools:** Git, Docker, LaTeX  
+**Languages:** Python · SQL · Fortran
+**ML/AI:** Scikit-Learn · XGBoost · LightGBM · TensorFlow · PyTorch · Keras · MLflow · Hugging Face
+**LLM & Agents:** LangChain · LangGraph · CrewAI
+**Data & Databases:** Pandas · NumPy · DuckDB · MongoDB · PostGIS
+**Computer Vision:** OpenCV · Tesseract OCR
+**Visualization:** Matplotlib · Seaborn · Tableau · PowerBI
+**Cloud & APIs:** Azure Blob Storage · FastAPI · REST API
+**Web Scraping:** Selenium · BeautifulSoup · Playwright
+**Tools:** Git · Docker · Mathematica
 
 
 
