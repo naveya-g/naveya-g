@@ -21,7 +21,7 @@ PhD graduate with 7+ years of research experience, currently working as a Junior
 - **Post Graduate Program in Artificial Intelligence & Machine Learning**  
   *University of Texas at Austin / Great Lakes* (2024 – 2025)
 
-- **Visiting Research Scientist**  
+- **Visiting Researcher**  
   *Indian Institute of Astrophysics, India* (2023 – 2024) 
 
 - **PhD in Theoretical Physics**  
