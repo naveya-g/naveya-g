@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naveya!
 
-## PhD Graduate | Data Scientist
+## Data Scientist | PhD Graduate
 
 📍 **Chennai, India**  
 📧 **Email:** [gnaveya@gmail.com](mailto:gnaveya@gmail.com)  
